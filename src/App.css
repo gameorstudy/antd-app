@@ -1,0 +1,75 @@
+@import '~antd/dist/antd.css';
+
+.App {
+    margin-top: 80px;
+    margin-left: 40px;
+}
+
+.mr-2 {
+    margin-right: 0.25rem;
+}
+
+.mb-2 {
+    margin-bottom: 0.25rem;
+}
+
+.site-button-ghost-wrapper {
+    padding: 8px 8px 0 8px;
+    background: rgb(190, 200, 200);
+}
+
+.demo {
+    margin: 16px;
+}
+
+.demo-nav {
+    height: 30px;
+    line-height: 30px;
+    margin-bottom: 16px;
+    background: #f8f8f8;
+}
+
+.demo-nav a {
+    line-height: 30px;
+    padding: 0 8px;
+}
+
+.app-list {
+    margin-top: 16px;
+}
+
+.steps-content {
+    margin-top: 16px;
+    border: 1px dashed #e9e9e9;
+    border-radius: 2px;
+    background-color: #fafafa;
+    min-height: 200px;
+    text-align: center;
+    padding-top: 80px;
+}
+  
+.steps-action {
+    margin-top: 24px;
+}
+
+.certain-category-search-dropdown .ant-select-dropdown-menu-item-group-title {
+  color: #666;
+  font-weight: bold;
+}
+
+.certain-category-search-dropdown .ant-select-dropdown-menu-item-group {
+  border-bottom: 1px solid #f6f6f6;
+}
+
+.certain-category-search-dropdown .ant-select-dropdown-menu-item {
+  padding-left: 16px;
+}
+
+.certain-category-search-dropdown .ant-select-dropdown-menu-item.show-all {
+  text-align: center;
+  cursor: default;
+}
+
+.certain-category-search-dropdown .ant-select-dropdown-menu {
+  max-height: 300px;
+}
