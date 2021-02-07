@@ -1,6 +1,6 @@
 import './App.css'
 // import { HashRouter as Router } from 'react-router-dom'
-import { Cascader11 } from './components/Cascaders/Cascader11'
+import { Checkbox7 } from './components/Checkboxs/Checkbox7'
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
       {/* <Router>
         <Home />
       </Router> */}
-      <Cascader11 /> 
+      <Checkbox7 /> 
     </div>
   )
 }
