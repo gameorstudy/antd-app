@@ -1,6 +1,6 @@
 import './App.css'
 // import { HashRouter as Router } from 'react-router-dom'
-import { DatePicker12 } from './components/DatePickers/DatePicker12'
+import { Form8 } from './components/Forms/Form8'
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
       {/* <Router>
         <Home />
       </Router> */}
-      <DatePicker12 /> 
+      <Form8 /> 
     </div>
   )
 }
