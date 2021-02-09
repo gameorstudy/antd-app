@@ -1,6 +1,6 @@
 import './App.css'
 // import { HashRouter as Router } from 'react-router-dom'
-import { Form11 } from './components/Forms/Form11'
+import { Input8 } from './components/Inputs/Input8'
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
       {/* <Router>
         <Home />
       </Router> */}
-      <Form11 /> 
+      <Input8 /> 
     </div>
   )
 }
