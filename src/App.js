@@ -1,6 +1,6 @@
 import './App.css'
 // import { HashRouter as Router } from 'react-router-dom'
-import { Input8 } from './components/Inputs/Input8'
+import { Badge9 } from './components/Badges/Badge9'
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
       {/* <Router>
         <Home />
       </Router> */}
-      <Input8 /> 
+      <Badge9 /> 
     </div>
   )
 }
