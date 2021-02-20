@@ -117,3 +117,8 @@ or the height is not enough when content is empty */
 .numeric-input .numeric-input-title {
   font-size: 14px;
 }
+
+.avatar-uploader > .ant-upload {
+  width: 128px;
+  height: 128px;
+}
