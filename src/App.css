@@ -165,7 +165,7 @@ or the height is not enough when content is empty */
   margin-right: 24px;
 }
 
-[class*='-col-rtl'] .avatar-item {
+[class*="-col-rtl"] .avatar-item {
   margin-right: 0;
   margin-left: 24px;
 }
@@ -174,7 +174,20 @@ or the height is not enough when content is empty */
   color: #999;
   background-color: #fff;
   box-shadow: 0 0 0 1px #d9d9d9 inset;
+}
+
 .avatar-uploader > .ant-upload {
   width: 128px;
   height: 128px;
+}
+
+/* tile uploaded pictures */
+.upload-list-inline .ant-upload-list-item {
+  float: left;
+  width: 200px;
+  margin-right: 8px;
+}
+
+.upload-list-inline [class*="-upload-list-rtl"] .ant-upload-list-item {
+  float: right;
 }
