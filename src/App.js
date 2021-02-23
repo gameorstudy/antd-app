@@ -1,6 +1,6 @@
 import './App.css'
 // import { HashRouter as Router } from 'react-router-dom'
-import { Carousel5 } from './components/Carousels/Carousel5'
+import { Comment4 } from './components/Comments/Comment4'
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
       {/* <Router>
         <Home />
       </Router> */}
-      <Carousel5 /> 
+      <Comment4 /> 
     </div>
   )
 }
