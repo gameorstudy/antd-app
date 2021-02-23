@@ -76,7 +76,7 @@ export class Comment4 extends React.Component {
                     <Avatar
                         src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png"
                         alt="Han Solo"
-                    />
+                    /> 
                 }
                 content={
                     <Editor
