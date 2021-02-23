@@ -223,3 +223,8 @@ or the height is not enough when content is empty */
   border: 1px solid #f0f0f0;
   border-radius: 2px;
 }
+
+.site-card-border-less-wrapper {
+  padding: 30px;
+  background: #ececec;
+}
