@@ -1,6 +1,6 @@
 import './App.css'
 // import { HashRouter as Router } from 'react-router-dom'
-import { Upload11 } from './components/Uploads/Upload11'
+import { Comment4 } from './components/Comments/Comment4'
 
 function App() {
   return (
@@ -8,9 +8,9 @@ function App() {
       {/* <Router>
         <Home />
       </Router> */}
-      <Upload11 /> 
+      <Comment4 /> 
     </div>
   )
 }
 
-export default App
+export default App  
