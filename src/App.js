@@ -1,6 +1,6 @@
 import './App.css'
 // import { HashRouter as Router } from 'react-router-dom'
-import { Card11 } from './components/Cards/Card11'
+import { Carousel5 } from './components/Carousels/Carousel5'
 
 function App() {
   return (
@@ -8,9 +8,9 @@ function App() {
       {/* <Router>
         <Home />
       </Router> */}
-      <Card11 /> 
+      <Carousel5 /> 
     </div>
   )
 }
 
-export default App
+export default App  
