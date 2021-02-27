@@ -1,9 +1,9 @@
 import { Empty } from 'antd'
 
-export function Empty2() {
+export function Empty6() {
     return (
         <>
-            <Empty />
+            <Empty description={false} />
         </>
     )
 }
