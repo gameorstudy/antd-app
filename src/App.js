@@ -1,6 +1,6 @@
 import './App.css'
 // import { HashRouter as Router } from 'react-router-dom'
-import { Table20 } from './components/Tables/Table20'
+import { Tag4 } from './components/Tags/Tag4'
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
       {/* <Router>
         <Home />
       </Router> */}
-      <Table20 /> 
+      <Tag4 /> 
     </div>
   )
 }

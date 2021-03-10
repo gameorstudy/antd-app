@@ -247,3 +247,16 @@ or the height is not enough when content is empty */
 [data-theme="dark"] .editable-row:hover .editable-cell-value-wrap {
   border: 1px solid #434343;
 }
+
+.site-tag-plus {
+  background: #fff;
+  border-style: dashed;
+}
+.edit-tag {
+  user-select: none;
+}
+.tag-input {
+  width: 78px;
+  margin-right: 8px;
+  vertical-align: top;
+}
