@@ -3,7 +3,7 @@ import {
     TwitterOutlined,
     YoutubeOutlined,
     FacebookOutlined,
-    LinkedOutlined,
+    LinkedinOutlined,
 } from '@ant-design/icons'
 
 export function Tag5() {
@@ -18,7 +18,7 @@ export function Tag5() {
             <Tag icon={<FacebookOutlined />}>
                 Facebook
             </Tag>
-            <Tag icon={<LinkedOutlined />}>
+            <Tag icon={<LinkedinOutlined />}>
                 LinkedIn
             </Tag>
         </>
