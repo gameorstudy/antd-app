@@ -1,6 +1,6 @@
 import './App.css'
 // import { HashRouter as Router } from 'react-router-dom'
-import { Timeline7 } from './components/Timelines/Timeline7'
+import { Tooltip4 } from './components/Tooltips/Tooltip4'
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
       {/* <Router>
         <Home />
       </Router> */}
-      <Timeline7 /> 
+      <Tooltip4 /> 
     </div>
   )
 }
