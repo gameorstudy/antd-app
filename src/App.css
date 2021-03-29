@@ -316,3 +316,7 @@ or the height is not enough when content is empty */
   margin-right: 8px;
   vertical-align: top;
 }
+
+.site-tree-search-value {
+  color: #f50;
+}

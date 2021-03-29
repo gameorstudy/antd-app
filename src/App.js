@@ -1,6 +1,6 @@
 import './App.css'
 // import { HashRouter as Router } from 'react-router-dom'
-import { Tooltip4 } from './components/Tooltips/Tooltip4'
+import { Tree7 } from './components/Trees/Tree7'
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
       {/* <Router>
         <Home />
       </Router> */}
-      <Tooltip4 /> 
+      <Tree7 /> 
     </div>
   )
 }
