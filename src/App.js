@@ -1,6 +1,6 @@
 import './App.css'
 // import { HashRouter as Router } from 'react-router-dom'
-import { Alert8 } from './components/Alerts/Alert8'
+import { Drawer7 } from './components/Drawers/Drawer7'
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
       {/* <Router>
         <Home />
       </Router> */}
-      <Alert8 /> 
+      <Drawer7 /> 
     </div>
   )
 }
