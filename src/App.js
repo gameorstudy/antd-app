@@ -1,6 +1,6 @@
-import './App.css'
+import "./App.css";
 // import { HashRouter as Router } from 'react-router-dom'
-import { Drawer7 } from './components/Drawers/Drawer7'
+import { Modal7 } from "./components/Modals/Modal7";
 
 function App() {
   return (
@@ -8,9 +8,9 @@ function App() {
       {/* <Router>
         <Home />
       </Router> */}
-      <Drawer7 /> 
+      <Modal7 />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
